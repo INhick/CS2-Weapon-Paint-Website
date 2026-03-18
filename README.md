@@ -1,7 +1,6 @@
 # 🔫 CS2 Loadout Manager (Nhick Skins)
 
 ![CS2 Loadout Manager Screenshot](./screenshot.png)
-*(**Nota:** Substitua esta imagem tirando um print da sua tela e salvando como `screenshot.png` na pasta raiz do projeto).*
 
 ## 📖 Sobre o Projeto
 
