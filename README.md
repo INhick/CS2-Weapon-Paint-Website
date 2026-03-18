@@ -10,7 +10,7 @@ Com um design focado na experiência do usuário, o painel facilita a busca por 
 
 ## 🔌 Integração com o Plugin "Weapon Paints"
 
-Este site foi desenvolvido para funcionar em perfeita harmonia com plugins de **(https://github.com/Nereziel/cs2-WeaponPaints)** em servidores da comunidade de CS2. 
+Este site foi desenvolvido para funcionar em perfeita harmonia com plugins de **[cs2-WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints)** em servidores da comunidade de CS2. 
 
 **Como funciona:**
 1. O jogador acessa este site e faz login (via Steam).
