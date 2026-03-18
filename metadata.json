@@ -1,0 +1,5 @@
+{
+  "name": "CS2 Loadout Manager",
+  "description": "A web interface for configuring CS2 Weapon Paints plugin loadouts, agents, and stickers.",
+  "requestFramePermissions": []
+}
